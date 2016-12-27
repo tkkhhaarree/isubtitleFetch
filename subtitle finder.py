@@ -1,6 +1,7 @@
 import os, requests
 from bs4 import BeautifulSoup
 
+# location where you have your movies stored.
 os.chdir("D:\\movi")
 
 namelist=os.listdir()
