@@ -7,4 +7,4 @@ Edit subtitle finder.py line 5 to the location where you keep your movies, then 
 <B>Note: you need to have requests and Beautifulsoup module installed for running this script.<br></B>
 to install them, open cmd, change current directory to Scripts folder located inside your python installation directory, then type:<br>
 'pip install requests' and,
-'pip install bs4' one by one (without quotes) and wait for installation to complete.
+'pip install bs4' one by one (without quotes) and wait for the installation to complete.
